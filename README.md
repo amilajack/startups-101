@@ -2,7 +2,7 @@
 
 A list of VC firms and angels
 
-**VC's**
+**Venture Capital Firms**
 
 - Y Combinator
 - Runa Capital
