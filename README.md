@@ -46,8 +46,15 @@ A list of VC firms and angels
 - Alex Maccaw (founder of Clearbit)
 - Calvin French-Owen (Segment founder)
 - George Kulthura
-- John + Patrick Collison (Stripe), Elad Gil (Color), Nat Friedman (Github), Greg Brockman (OpenAI)
-- Max Levchin, Chris Sacca, Ron Conway, Naval Ravikant, Collaborative Fund, Accel Partners, and First Round Capital. raised $7M more. Mike Abbott from Kleiner Perkins Caufield & Byers (KPCB), a top-tier VC firm, led the round.
+- John + Patrick Collison (Stripe)
+- Elad Gil (Color)
+- Nat Friedman (Github)
+- Greg Brockman (OpenAI)
+- Max Levchin
+- Chris Sacca
+- Ron Conway
+- Collaborative Fund
+- Accel Partners
 - Dylan Field
 - Nikhil Basu Trivedi
 - Mike Smith
