@@ -26,7 +26,8 @@ A list of VC firms and angels
 - Work live ventures
 - StitchFix president Mike Smith
 - Hyper fund
-- Accel
+- Accel Partners
+- Collaborative Fund
 
 **Angels**
 
@@ -53,8 +54,6 @@ A list of VC firms and angels
 - Max Levchin
 - Chris Sacca
 - Ron Conway
-- Collaborative Fund
-- Accel Partners
 - Dylan Field
 - Nikhil Basu Trivedi
 - Mike Smith
