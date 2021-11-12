@@ -46,7 +46,7 @@ A list of VC firms and angels
 - Mathilde Collin (founder/CEO of Front)
 - Alex Maccaw (founder of Clearbit)
 - Calvin French-Owen (Segment founder)
-- George Kulthura
+- George Kunthura
 - John + Patrick Collison (Stripe)
 - Elad Gil (Color)
 - Nat Friedman (Github)
