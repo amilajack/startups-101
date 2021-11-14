@@ -85,3 +85,7 @@ This list aims to give software engineers exposure to prominent venture capital 
 - Evan Conrad
 - Immad Akhund
 - Qasar Younis
+
+## Related
+
+* [startup-checklist](https://github.com/leonar15/startup-checklist): A startup incorporation checklist
