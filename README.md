@@ -2,6 +2,11 @@
 
 A list of VC firms and angels
 
+
+**Goal**
+
+This list aims to give software engineers exposure to prominent venture capital firms and angels whne looking for funding.
+
 **Venture Capital Firms**
 
 - Y Combinator
