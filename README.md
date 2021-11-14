@@ -10,29 +10,35 @@ This list aims to give software engineers exposure to prominent venture capital 
 **Venture Capital Firms**
 
 - Y Combinator
-- Runa Capital
+- a16z
 - Benchmark
+- Founders Fund
 - General Catalyst
 - Sequoia
-- Goat capital
 - First round
 - Kleiner Perkins
 - Redpoint Ventures
 - Matrix
-- Tiger
+- Tiger Global
 - Lightspeed
-- S28 Capital
-- Slack fund
-- IA Ventures
 - Index Ventures
-- BoxGroup
+- Box Group
 - Thrive capital
-- Soma capital
-- Work live ventures
-- StitchFix president Mike Smith
 - Hyper fund
 - Accel Partners
 - Collaborative Fund
+- New Enterprise Associates (NEA)
+- Bessemer Venture Partners
+- Amplify Partners
+- Khosla Ventures
+- GV
+- Battery Ventures
+- Bond Capital
+- Greycroft
+- Menlo Ventures
+- Spark Capital
+- Initialized Capital
+- Union Square Ventures
 
 **Angels**
 
