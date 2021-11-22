@@ -86,6 +86,12 @@ This list aims to give software engineers exposure to prominent venture capital 
 - Immad Akhund
 - Qasar Younis
 
-## Related
+## Resources
 
-* [startup-checklist](https://github.com/leonar15/startup-checklist): A startup incorporation checklist
+* [Startup Incorporation Checklist](https://github.com/leonar15/startup-checklist)
+
+## Startup Readings
+
+* [Startups in 13 sentences - Paul Graham](http://www.paulgraham.com/13sentences.html)
+* [Before Growth - Sam Altman](https://blog.samaltman.com/before-growth)
+* [The Pmarca Guide to Startups](https://pmarchive.com/)
