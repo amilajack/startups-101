@@ -86,6 +86,10 @@ This list aims to give software engineers exposure to prominent venture capital 
 - Immad Akhund
 - Qasar Younis
 
+## How to Fundraise
+
+* [Fundraise parallelly, not serially - YC](https://www.ycombinator.com/library/3N-process-and-leverage-in-fundraising)
+
 ## Resources
 
 * [Startup Incorporation Checklist](https://github.com/leonar15/startup-checklist)
