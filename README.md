@@ -1,7 +1,6 @@
-# vc-list
+# startup-101
 
-A list of VC firms and angels
-
+A one-stop-shop for founder resources
 
 **Goal**
 
@@ -89,6 +88,7 @@ This list aims to give software engineers exposure to prominent venture capital 
 ## How to Fundraise
 
 * [Fundraise parallelly, not serially - YC](https://www.ycombinator.com/library/3N-process-and-leverage-in-fundraising)
+* [Raising Venture Capital 📘](https://www.amazon.com/Holloway-Guide-Raising-Venture-Capital/dp/1952120217/ref=sr_1_1_sspa) - How to fundraise, source deals, pitch, value your startup, and think about term sheets.
 
 ## Resources
 
